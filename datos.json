@@ -14514,5 +14514,119 @@
         "CredencialesDVR": "NULL",
         "SistemaOperativo_RDP": "N/A",
         "Preview": null
+    },
+    {
+        "IP": "200.11.17.252",
+        "Puerto": 60889,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Brazil",
+        "Ciudad": "Bras\u00edlia",
+        "Dominio": "N/A",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "200.11.17.252",
+        "Puerto": 1050,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Brazil",
+        "Ciudad": "Bras\u00edlia",
+        "Dominio": "N/A",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "200.11.17.252",
+        "Puerto": 1051,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Brazil",
+        "Ciudad": "Bras\u00edlia",
+        "Dominio": "N/A",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "200.11.17.252",
+        "Puerto": 1052,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Brazil",
+        "Ciudad": "Bras\u00edlia",
+        "Dominio": "N/A",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "200.14.66.150",
+        "Puerto": 554,
+        "Servicio": "rtsp",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Chile",
+        "Ciudad": "Valpara\u00edso",
+        "Dominio": "N/A",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "200.14.66.200",
+        "Puerto": 554,
+        "Servicio": "rtsp",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Chile",
+        "Ciudad": "Valpara\u00edso",
+        "Dominio": "relay3.congreso.cl",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
 }
 ]
