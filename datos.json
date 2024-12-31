@@ -10885,5 +10885,119 @@
         "CredencialesDVR": "NULL",
         "SistemaOperativo_RDP": "N/A",
         "Preview": null
+    },
+    {
+        "IP": "200.6.137.12",
+        "Puerto": 554,
+        "Servicio": "rtsp",
+        "Banner": "RTSP/1.0 400 Bad Request",
+        "Regi\u00f3n": "Brazil",
+        "Ciudad": "Uruar\u00e1",
+        "Dominio": "12.137.6.200.mov.pro.br",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "200.6.250.234",
+        "Puerto": 8002,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Guatemala",
+        "Ciudad": "Guatemala City",
+        "Dominio": "mail99.marbensa.com",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "200.6.239.100",
+        "Puerto": 554,
+        "Servicio": "rtsp",
+        "Banner": "RTSP/1.0 400 Bad Request",
+        "Regi\u00f3n": "Guatemala",
+        "Ciudad": "Guatemala City",
+        "Dominio": "100.239.6.200.static.intelnet.net.gt",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "200.7.91.252",
+        "Puerto": 5900,
+        "Servicio": "unknown",
+        "Banner": "RFB 003.889",
+        "Regi\u00f3n": "Trinidad and Tobago",
+        "Ciudad": "Chaguanas",
+        "Dominio": "N/A",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "200.7.173.10",
+        "Puerto": 554,
+        "Servicio": "rtsp",
+        "Banner": "HTTP/1.0 200 OK\r\nCache-Control: no-store\r\nContent-Type: application/x-rtsp-tunnelled\r\nCSeq: 0\r\nDate: Tue, Dec 31 2024 15:25:35 GMT\r\nPragma: no-store\r\nServer: ZLMediaKit(git hash:4ce3712/2024-07-05T15:45:09+08:00,branch:dev_20240630,build time:2024-07-05T16:19:26)",
+        "Regi\u00f3n": "Bolivia",
+        "Ciudad": "La Paz",
+        "Dominio": "N/A",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "200.7.209.194",
+        "Puerto": 3123,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Ecuador",
+        "Ciudad": "Quito",
+        "Dominio": "N/A",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
 }
 ]
