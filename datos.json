@@ -6679,5 +6679,5 @@
     "CuerpoRespuesta": "N/A",
     "ExploitVulnerable": {
       "Hikvision": false,
-      "Avtech": false,
-      
+      "Avtech": false
+]
