@@ -61083,5 +61083,385 @@
         "CredencialesDVR": "NULL",
         "SistemaOperativo_RDP": "N/A",
         "Preview": null
+    },
+    {
+        "IP": "188.61.171.28",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Zurich",
+        "Dominio": "28.171.61.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.61.180.174",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Zurich",
+        "Dominio": "174.180.61.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.61.181.18",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Zurich",
+        "Dominio": "18.181.61.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.61.188.226",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Zurich",
+        "Dominio": "226.188.61.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.61.192.2",
+        "Puerto": 1025,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Lutry",
+        "Dominio": "2.192.61.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.61.249.210",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Lausanne",
+        "Dominio": "210.249.61.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.61.248.166",
+        "Puerto": 1026,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Lausanne",
+        "Dominio": "166.248.61.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.62.0.68",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Zofingen",
+        "Dominio": "68.0.62.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.62.28.150",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Saint-Prex",
+        "Dominio": "150.28.62.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.60.30.110",
+        "Puerto": 1025,
+        "Servicio": "unknown",
+        "Banner": "HTTP/1.1 503 Service unavailable\r\nConnection: close\r\nContent-Length: 0",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Zurich",
+        "Dominio": "110.30.60.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.62.12.96",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Zofingen",
+        "Dominio": "96.12.62.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": "has_screenshot:true"
+    },
+    {
+        "IP": "188.62.75.68",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Zurich",
+        "Dominio": "68.75.62.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.62.89.134",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Zug",
+        "Dominio": "134.89.62.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.62.136.152",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Biel/Bienne",
+        "Dominio": "152.136.62.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.62.121.242",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Lutry",
+        "Dominio": "242.121.62.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.62.160.208",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Kriens",
+        "Dominio": "208.160.62.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.62.145.198",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Lausanne",
+        "Dominio": "198.145.62.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.62.162.146",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Kriens",
+        "Dominio": "146.162.62.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.62.201.12",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Kriens",
+        "Dominio": "12.201.62.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.62.196.242",
+        "Puerto": 1024,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Switzerland",
+        "Ciudad": "Kriens",
+        "Dominio": "242.196.62.188.dynamic.cust.swisscom.net",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": "has_screenshot:true"
     }
 ]
