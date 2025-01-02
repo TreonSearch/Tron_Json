@@ -53692,5 +53692,62 @@
         "CredencialesDVR": "NULL",
         "SistemaOperativo_RDP": "N/A",
         "Preview": null
+    },
+    {
+        "IP": "188.19.68.58",
+        "Puerto": 554,
+        "Servicio": "rtsp",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Russia",
+        "Ciudad": "Surgut",
+        "Dominio": "N/A",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.19.68.58",
+        "Puerto": 554,
+        "Servicio": "rtsp",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Russia",
+        "Ciudad": "Surgut",
+        "Dominio": "N/A",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
+    },
+    {
+        "IP": "188.19.202.154",
+        "Puerto": 8012,
+        "Servicio": "unknown",
+        "Banner": "\u001b[31munknown\u001b[0m",
+        "Regi\u00f3n": "Russia",
+        "Ciudad": "Surgut",
+        "Dominio": "N/A",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
     }
 ]
