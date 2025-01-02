@@ -132067,5 +132067,24 @@
         "CredencialesDVR": "NULL",
         "SistemaOperativo_RDP": "N/A",
         "Preview": null
+    },
+    {
+        "IP": "188.247.85.148",
+        "Puerto": 554,
+        "Servicio": "rtsp",
+        "Banner": "",
+        "Regi\u00f3n": "Jordan",
+        "Ciudad": "Amman",
+        "Dominio": "ip188-247-85-148.zaindata.jo",
+        "CuerpoRespuesta": "N/A",
+        "ExploitVulnerable": {
+            "Hikvision": false,
+            "Avtech": false,
+            "TVT": false,
+            "video.mjpg-Vulnerable": false
+        },
+        "CredencialesDVR": "NULL",
+        "SistemaOperativo_RDP": "N/A",
+        "Preview": null
     }
 ]
